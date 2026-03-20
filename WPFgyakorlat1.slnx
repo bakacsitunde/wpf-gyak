@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WpfApp1/WpfApp1.csproj" />
+  <Project Path="WPFlogin/WPFlogin.csproj" Id="12925a65-e51a-415b-88c6-6e17cfecbb58" />
+  <Project Path="Wpfszamologep/Wpfszamologep.csproj" Id="93741c74-233c-4b14-ae22-ccb175572223" />
+</Solution>
