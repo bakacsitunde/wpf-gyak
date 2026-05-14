@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="7feladat/7feladat.csproj" Id="c08ffadc-10cd-48dc-a552-8a6a82f664ec" />
+  <Project Path="ButtonClick/ButtonClick.csproj" Id="08352628-0835-44a6-a623-6adc12ae29ef" />
+  <Project Path="CheckBox/CheckBox.csproj" Id="559f1a17-a06c-4ea3-a8d2-5b5502fb4d84" />
+  <Project Path="ComboBox-SelectionChanged/ComboBox-SelectionChanged.csproj" Id="cc6636e6-f9d0-41b2-a340-a72e1924dbf6" />
+  <Project Path="DataGrid/DataGrid.csproj" Id="8defe169-4581-4bb9-b4b2-04f0e1d08e4b" />
+  <Project Path="ModálisAblak/ModálisAblak.csproj" Id="e494d8c3-f156-43ec-b79c-1a8910859676" />
+  <Project Path="RadioButton/RadioButton.csproj" Id="cd806496-680f-493c-9e31-83728e19851f" />
+  <Project Path="Slider/Slider.csproj" Id="68c75981-2bf1-40e8-b6c5-0efd9ca93825" />
+  <Project Path="TextBox/TextBox.csproj" Id="3fe5a31d-1d57-4881-9f33-d768db3ddfd2" />
+</Solution>

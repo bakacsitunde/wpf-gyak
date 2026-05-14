@@ -1,0 +1,40 @@
+﻿using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace DataGrid
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string nev = txtNev.Text;
+            int kor;
+            if (int.TryParse(txtKor.Text, out kor))
+            {
+                dgSzemelyek.Items.Add(new { Nev = nev, Kor = kor });
+            }
+            else
+            {
+                MessageBox.Show("Érvénytelen");
+            }
+
+
+        }
+    }
+}
