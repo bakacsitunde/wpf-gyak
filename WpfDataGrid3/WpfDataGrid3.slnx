@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DataGridUITest/DataGridUITest.csproj" Id="08117203-306d-4e2d-9f9d-d09e61210ce0" />
+  <Project Path="WpfDataGrid3.csproj" />
+</Solution>
