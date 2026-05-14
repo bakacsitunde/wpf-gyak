@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Calendar/Calendar.csproj" Id="adc24bad-9d41-46cb-8c33-341d486d2cd4" />
+  <Project Path="Feladat1/Feladat1.csproj" />
+  <Project Path="Feladat2/Feladat2.csproj" />
+  <Project Path="Feladat3/Feladat3.csproj" />
+  <Project Path="Feladat4/Feladat4.csproj" Id="0464d6c7-c6cd-464d-8aa0-6be62cf2cda7" />
+  <Project Path="Feladat5/Feladat5.csproj" Id="f7887aa7-a166-4308-9b23-817c4386f0ce" />
+  <Project Path="ProgressBar/ProgressBar.csproj" Id="49cc29b3-cfca-4cd9-b3f0-1d4117501111" />
+  <Project Path="ToggleButton/ToggleButton.csproj" Id="f89f3430-09b6-4f81-9c41-df642345853e" />
+  <Project Path="ToolTip/ToolTip.csproj" Id="ca4243bf-8598-4118-9c26-a3241e37c97e" />
+</Solution>
